@@ -1,0 +1,2 @@
+jsh_folder_path = "/jsh"
+shell.setPath(shell.path() .. ":" .. jsh_folder_path)
